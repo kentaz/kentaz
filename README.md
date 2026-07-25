@@ -10,50 +10,60 @@ I design, secure, and govern AWS infrastructure at the organisation level — la
 
 ## Certifications
 
-<!-- ============================================================
-  CREDLY BADGE INSTRUCTIONS
-  Replace each src URL with the real badge image from your Credly profile:
-    1. Go to https://www.credly.com/users/kenneth-zendera
-    2. Click each badge → "Share" → right-click the badge image → Copy image address
-    3. Paste the URL into the matching src="" below
-    4. Replace YOUR-CREDLY-HANDLE in each href with your actual Credly handle
-  ============================================================ -->
-
 <p align="center">
 
-  <!-- AWS Solutions Architect Professional -->
+  <!-- AWS Certified Solutions Architect – Professional (2025) -->
   <a href="https://www.credly.com/users/kenneth-zendera/badges" title="AWS Certified Solutions Architect – Professional">
     <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" alt="AWS Solutions Architect Professional"/>
   </a>
 
-  <!-- AWS Security Specialty -->
-  <a href="https://www.credly.com/users/kenneth-zendera/badges" title="AWS Certified Security – Specialty">
+  <!-- AWS Certified Security – Specialty (2024) -->
+  <a href="https://www.credly.com/badges/13d53d01-6ffa-494e-b028-27bccb32bd0f/public_url" title="AWS Certified Security – Specialty">
     <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" alt="AWS Security Specialty"/>
   </a>
 
-  <!-- AWS Solutions Architect Associate -->
+  <!-- AWS Certified Solutions Architect – Associate (2023) -->
   <a href="https://www.credly.com/users/kenneth-zendera/badges" title="AWS Certified Solutions Architect – Associate">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Solutions Architect Associate"/>
   </a>
 
-  <!-- AWS SysOps Administrator Associate -->
+  <!-- AWS Certified SysOps Administrator – Associate (2023) -->
   <a href="https://www.credly.com/users/kenneth-zendera/badges" title="AWS Certified SysOps Administrator – Associate">
     <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" alt="AWS SysOps Administrator Associate"/>
   </a>
 
-  <!-- ISC2 Certified in Cybersecurity -->
+  <!-- ISC2 Certified in Cybersecurity (2024) -->
   <a href="https://www.credly.com/users/kenneth-zendera/badges" title="Certified in Cybersecurity (CC) – ISC2">
     <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="100" alt="ISC2 Certified in Cybersecurity"/>
+  </a>
+
+  <!-- ISO/IEC 42001:2023 Lead Auditor – Mastermind (Oct 2025) -->
+  <a href="https://www.credly.com/users/kenneth-zendera/badges" title="ISO/IEC 42001:2023 Lead Auditor – Mastermind">
+    <img src="https://images.credly.com/images/a2684117-2e56-45f9-b736-2adbbe187a60/image.png" width="100" alt="ISO 42001:2023 Lead Auditor"/>
+  </a>
+
+  <!-- ISO/IEC 27001:2022 Lead Auditor – Mastermind (Apr 2025) -->
+  <a href="https://www.credly.com/users/kenneth-zendera/badges" title="ISO/IEC 27001:2022 Lead Auditor – Mastermind">
+    <img src="https://images.credly.com/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/image.png" width="100" alt="ISO 27001:2022 Lead Auditor"/>
+  </a>
+
+  <!-- Oracle Cloud Infrastructure 2025 Multicloud Architect Professional (Oct 2025) -->
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B31B422893346D5112480177057CBE6DC8BE2CF5B8C1C4FF8A4A83D126B5B7B5" title="Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2025MCAOCP.png" width="100" alt="OCI 2025 Multicloud Architect Professional"/>
   </a>
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISO%2FIEC_42001%3A2023-Lead_Auditor-0F4C81?style=for-the-badge&labelColor=003366" alt="ISO/IEC 42001:2023 Lead Auditor"/>
+  <!-- ISO/IEC 27701:2025 Lead Auditor -->
+  <a href="https://www.credly.com/badges/b262cbb9-a3dc-4133-9e2b-0b65132ff02d/public_url" title="ISO/IEC 27701:2025 Lead Auditor – Mastermind">
+    <img src="https://images.credly.com/size/110x110/images/730bda7d-a561-4213-94dc-8dcaa0f83aa4/blob" width="100" alt="ISO/IEC 27701:2025 Lead Auditor"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-0F4C81?style=for-the-badge&labelColor=003366" alt="ISO/IEC 27001:2022 Lead Auditor"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ISO%2FIEC_27701%3A2025-Lead_Auditor-0F4C81?style=for-the-badge&labelColor=003366" alt="ISO/IEC 27701:2025 Lead Auditor"/>
+  <!-- Fellow of Management Systems Auditing -->
+  <a href="https://www.credly.com/badges/6fc26892-9314-445c-88ec-ee1490e3bae9/public_url" title="Fellow of Management Systems Auditing – Mastermind">
+    <img src="https://images.credly.com/size/110x110/images/079283d7-13df-435f-bc11-4fa4045a08b3/blob" width="100" alt="Fellow of Management Systems Auditing"/>
+  </a>
 </p>
 
 <p align="center">
@@ -79,9 +89,9 @@ I design, secure, and govern AWS infrastructure at the organisation level — la
 
 ## Tech stack
 
-**Cloud** — AWS (Control Tower, Organizations, IAM Identity Center, EC2, ECS, EKS, RDS, Lambda, CloudFront, Route 53, Bedrock, S3, VPC, Security Hub, GuardDuty, Config, CloudWatch), Azure (working knowledge)
+**Cloud** — AWS (Control Tower, Organizations, IAM Identity Center, EC2, ECS, EKS, RDS, Lambda, CloudFront, Route 53, Bedrock, S3, VPC, Security Hub, GuardDuty, Config, CloudWatch), Azure (working knowledge), Oracle Cloud Infrastructure
 
-**Security & compliance** — Security Hub, GuardDuty, Config, IAM, KMS, WAF, Shield, CIS benchmarks, ISO 27001, ISO 42001, EU AI Act, NIST AI RMF
+**Security & compliance** — Security Hub, GuardDuty, Config, IAM, KMS, WAF, Shield, CIS benchmarks, ISO 27001, ISO 27701, ISO 42001, EU AI Act, NIST AI RMF
 
 **Infrastructure as Code** — Terraform (modules, remote state, CI/CD), CloudFormation
 
