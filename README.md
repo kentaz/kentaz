@@ -1,10 +1,12 @@
-# Kenneth Zendera
+# Kenneth Tafadzwa Zendera
 
-**Cloud & AI Governance Engineer — AWS multi-account · IaC · ISO 42001 · AI Governance**
+**Cloud & AI Governance Engineer · ISO 42001/27001 Lead Auditor · Building ComplyAgent**
 
-Cape Town, South Africa · UTC+2 · Open to remote roles across EMEA and US East
+Cape Town, South Africa · UTC+2 · Open to consulting, advisory, and remote roles across EMEA and US East
 
-I design, secure, and govern AWS infrastructure at the organisation level — landing zones, multi-account Terraform, security baselines, and the automation that holds it all together. On the AI side, I implement governance frameworks (EU AI Act, NIST AI RMF, ISO 42001) and build the cloud infrastructure that hosts AI workloads safely. Six years across SOC engineering, cloud automation, and solutions architecture, currently running cloud and AI governance delivery for an MSP across two AWS Organizations.
+I design, secure, and govern AWS infrastructure at the organisation level — landing zones, multi-account Terraform, security baselines, and the automation that holds it all together. On the AI side, I implement governance frameworks (EU AI Act, NIST AI RMF, ISO 42001) and build the cloud infrastructure that hosts AI workloads safely. Six years across SOC engineering, cloud automation, and solutions architecture.
+
+Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an open-source platform for EU AI Act audit-ready evidence collection for AI agent deployments — and offering EU AI Act readiness consulting and fractional CISO engagements.
 
 ---
 
@@ -83,9 +85,10 @@ I design, secure, and govern AWS infrastructure at the organisation level — la
 
 ## Currently working on
 
-- Reusable Terraform module for AWS landing zones with Control Tower integration
-- `terraform-aws-bedrock-governance` — private, VPC-endpointed Bedrock with Guardrails, annotated to ISO 42001 controls
-- AI governance toolkit — practitioner templates for EU AI Act, NIST AI RMF, and ISO 42001 implementation
+- **[ComplyAgent](https://github.com/kentaz/complyagent)** — EU AI Act audit-ready evidence collection for AI agent deployments (signed audit trails, OPA policy evaluation, PDF reports)
+- **EU AI Act readiness consulting** — fractional CISO engagements, gap assessments, and remediation roadmaps for SaaS companies deploying AI in the EU
+- **AI governance toolkit** — practitioner templates for EU AI Act risk classification, ISO 42001 audit, NIST AI RMF, and incident response
+- **SOC 2 / ISO 27001 policy template generator** — pre-filled, personalized policy packs for startups (coming soon)
 
 ## Tech stack
 
@@ -107,6 +110,7 @@ I design, secure, and govern AWS infrastructure at the organisation level — la
 
 | Repository | What it does |
 |-----------|-------------|
+| [complyagent](https://github.com/kentaz/complyagent) | EU AI Act audit-ready evidence collection for AI agent deployments — signed audit trails, OPA policy evaluation, PDF reports |
 | [terraform-aws-security-baseline](https://github.com/kentaz/terraform-aws-security-baseline) | Reusable Terraform module enabling Security Hub, GuardDuty, Config, CloudTrail + KMS, and IAM Access Analyzer on an AWS account |
 | [ai-governance-toolkit](https://github.com/kentaz/ai-governance-toolkit) | Practitioner templates for EU AI Act risk classification, ISO 42001 audit, NIST AI RMF implementation, incident response, and vendor assessment |
 | [aws-cwagent-deployer](https://github.com/kentaz/aws-cwagent-deployer) | Self-healing CloudWatch Agent deployment via SSM State Manager with ASG-dimensioned alarms that survive instance replacement |
@@ -117,11 +121,19 @@ I design, secure, and govern AWS infrastructure at the organisation level — la
 
 **Bachelor of Technology, International Marketing** — Chinhoyi University of Technology, Zimbabwe
 
+## Available for
+
+- **EU AI Act readiness assessments** — gap analysis, control mapping, evidence-collection strategy for SaaS companies deploying AI in the EU
+- **Fractional CISO engagements** — interim security leadership for Series A–C startups (3–6 month engagements)
+- **Cloud security architecture** — AWS multi-account design, Terraform modules, security baseline implementation
+- **AI governance programme design** — ISO 42001 implementation, NIST AI RMF alignment, vendor risk assessment
+
 ## Contact
 
 - Site — [kenneth.zendera.co.za](https://kenneth.zendera.co.za)
 - Email — kentaz23@hotmail.com
 - LinkedIn — [linkedin.com/in/kenneth-tafadzwa-z-57954467](https://linkedin.com/in/kenneth-tafadzwa-z-57954467)
+- Credly — [credly.com/users/kenneth-zendera](https://www.credly.com/users/kenneth-zendera)
 
 ---
 
