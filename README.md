@@ -1,10 +1,10 @@
 # Kenneth Tafadzwa Zendera
 
-**Cloud & AI Governance Engineer · ISO 42001/27001 Lead Auditor · Building ComplyAgent**
+**Solutions Architect & DevOps Engineer · ISO 42001/27001/27701 Lead Auditor · Building ComplyAgent**
 
 Cape Town, South Africa · UTC+2 · Open to consulting, advisory, and remote roles across EMEA and US East
 
-I design, secure, and govern AWS infrastructure at the organisation level — landing zones, multi-account Terraform, security baselines, and the automation that holds it all together. On the AI side, I implement governance frameworks (EU AI Act, NIST AI RMF, ISO 42001) and build the cloud infrastructure that hosts AI workloads safely. Six years across SOC engineering, cloud automation, and solutions architecture.
+I design, build, and operate AWS infrastructure at the organisation level — landing zones, multi-account Terraform, CI/CD pipelines, security baselines, and the automation that holds it all together. I also build the platforms that run on that infrastructure: payment orchestration APIs, real-time commerce, and serverless AI workloads. As an ISO 42001/27001/27701 Lead Auditor I implement governance frameworks (EU AI Act, NIST AI RMF, ISO 42001) — and build the tooling that proves compliance. Six years across SOC engineering, cloud automation, and solutions architecture.
 
 Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an open-source platform for EU AI Act audit-ready evidence collection for AI agent deployments — and offering EU AI Act readiness consulting and fractional CISO engagements.
 
@@ -79,6 +79,7 @@ Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an o
 - Design and operate AWS multi-account environments with **Control Tower**, **Security Hub**, **GuardDuty**, **Config**, and **IAM Identity Center** across multiple AWS Organizations
 - Author production **Terraform** — modular, CI/CD-deployed, policy-as-code gated with TFSec and Checkov
 - Build cross-account automation in **Bash** and **Python** for CloudWatch alarm management, cost and quota auditing, Security Hub remediation, and account provisioning
+- Build and operate **platform backends** — Python (FastAPI) and TypeScript services on PostgreSQL, MongoDB, and Redis: ledgers, payment orchestration, reconciliation, serverless AI
 - Implement AI governance programmes aligned to the **EU AI Act**, **NIST AI RMF**, and **ISO/IEC 42001:2023**
 - Run incident response end-to-end — triage, root cause, remediation, post-mortem, runbook
 - Lead migrations: GCP → AWS, RDS major-version upgrades via Blue/Green, IAM → IAM Identity Center, S3 + CloudFront OAC cutovers
@@ -110,6 +111,9 @@ Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an o
 
 | Repository | What it does |
 |-----------|-------------|
+| panafrican-payments *(case study — private build)* | Multi-provider payment orchestration API for African rails — double-entry ledger, routing/split/payout engine, reconciliation, idempotency middleware, TypeScript SDK |
+| aws-scanner *(case study — private build)* | Multi-account AWS audit platform — 10 security/cost/optimization scans via cross-account IAM roles, CloudFormation, async FastAPI + React |
+| multichannel-ai-assistant *(case study — private build)* | Serverless chat + voice conversational AI — Lambda, Amazon Connect, Bedrock, fully Terraform-deployed and verified live |
 | [complyagent](https://github.com/kentaz/complyagent) | EU AI Act audit-ready evidence collection for AI agent deployments — signed audit trails, OPA policy evaluation, PDF reports |
 | [terraform-aws-security-baseline](https://github.com/kentaz/terraform-aws-security-baseline) | Reusable Terraform module enabling Security Hub, GuardDuty, Config, CloudTrail + KMS, and IAM Access Analyzer on an AWS account |
 | [ai-governance-toolkit](https://github.com/kentaz/ai-governance-toolkit) | Practitioner templates for EU AI Act risk classification, ISO 42001 audit, NIST AI RMF implementation, incident response, and vendor assessment |
@@ -123,6 +127,7 @@ Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an o
 
 ## Available for
 
+- **Remote solutions architecture & DevOps engineering roles** — AWS multi-account design, Terraform, CI/CD, platform engineering
 - **EU AI Act readiness assessments** — gap analysis, control mapping, evidence-collection strategy for SaaS companies deploying AI in the EU
 - **Fractional CISO engagements** — interim security leadership for Series A–C startups (3–6 month engagements)
 - **Cloud security architecture** — AWS multi-account design, Terraform modules, security baseline implementation
