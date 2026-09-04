@@ -115,6 +115,7 @@ Currently building [ComplyAgent](https://github.com/kentaz/complyagent) — an o
 | aws-scanner *(case study — private build)* | Multi-account AWS audit platform — 10 security/cost/optimization scans via cross-account IAM roles, CloudFormation, async FastAPI + React |
 | multichannel-ai-assistant *(case study — private build)* | Serverless chat + voice conversational AI — Lambda, Amazon Connect, Bedrock, fully Terraform-deployed and verified live |
 | cross-account-aws-toolbox *(case study — private build)* | 100+ production operational scripts for multi-client AWS Organizations — security baselines, Control Tower control governance, org-wide audits, account migrations, cost reporting; dry-run-first with STS assume-role fan-out |
+| org-cost-reporting *(case study — private build)* | Monthly multi-account AWS cost reporting from the payer — Cost Explorer direct, org auto-discovery, tag-based account inclusion, six-month trends |
 | gitlab-502-postmortem *(case study — private build)* | Root-caused and hardened self-managed GitLab in Docker after a cron log-rotation race SIGKilled Postgres mid-checkpoint — 502s eliminated |
 | [complyagent](https://github.com/kentaz/complyagent) | EU AI Act audit-ready evidence collection for AI agent deployments — signed audit trails, OPA policy evaluation, PDF reports |
 | [terraform-aws-security-baseline](https://github.com/kentaz/terraform-aws-security-baseline) | Reusable Terraform module enabling Security Hub, GuardDuty, Config, CloudTrail + KMS, and IAM Access Analyzer on an AWS account |
